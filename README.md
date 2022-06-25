@@ -1,2 +1,2 @@
-All the practice codes, homework and projects throughout 
-Turkcell -Atmosware- Bootcamp (Frontend).
+All the practice codes, homeworks and projects throughout 
+Turkcell -Atmosware- Bootcamp (Frontend part).
